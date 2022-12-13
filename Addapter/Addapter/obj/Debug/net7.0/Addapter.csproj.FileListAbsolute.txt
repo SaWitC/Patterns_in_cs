@@ -1,0 +1,15 @@
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\bin\Debug\net7.0\Addapter.exe
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\bin\Debug\net7.0\Addapter.deps.json
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\bin\Debug\net7.0\Addapter.runtimeconfig.json
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\bin\Debug\net7.0\Addapter.dll
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\bin\Debug\net7.0\Addapter.pdb
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\obj\Debug\net7.0\Addapter.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\obj\Debug\net7.0\Addapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\obj\Debug\net7.0\Addapter.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\obj\Debug\net7.0\Addapter.AssemblyInfo.cs
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\obj\Debug\net7.0\Addapter.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\obj\Debug\net7.0\Addapter.dll
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\obj\Debug\net7.0\refint\Addapter.dll
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\obj\Debug\net7.0\Addapter.pdb
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\obj\Debug\net7.0\Addapter.genruntimeconfig.cache
+C:\Users\USER\Downloads\Patterns_in_cs\Addapter\Addapter\obj\Debug\net7.0\ref\Addapter.dll
